@@ -1,0 +1,10 @@
+C:\Users\Dell\source\Day20\Assignment25\Assignment25\obj\Debug\Assignment25.csproj.AssemblyReference.cache
+C:\Users\Dell\source\Day20\Assignment25\Assignment25\bin\Debug\Assignment25.exe.config
+C:\Users\Dell\source\Day20\Assignment25\Assignment25\bin\Debug\Assignment25.exe
+C:\Users\Dell\source\Day20\Assignment25\Assignment25\bin\Debug\Assignment25.pdb
+C:\Users\Dell\source\Day20\Assignment25\Assignment25\bin\Debug\MySharedLibrary.dll
+C:\Users\Dell\source\Day20\Assignment25\Assignment25\bin\Debug\MySharedLibrary.pdb
+C:\Users\Dell\source\Day20\Assignment25\Assignment25\obj\Debug\Assignment25.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Day20\Assignment25\Assignment25\obj\Debug\Assignment25.csproj.CopyComplete
+C:\Users\Dell\source\Day20\Assignment25\Assignment25\obj\Debug\Assignment25.exe
+C:\Users\Dell\source\Day20\Assignment25\Assignment25\obj\Debug\Assignment25.pdb
